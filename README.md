@@ -7,3 +7,5 @@ For each input HTML file _F_, go-merge2html writes _DEST-DIR_/_F_, which is the 
 except that any `<link rel=stylesheet href=STYLE.css>` element naming a local file is replaced by a `<style>`
 element containing the text from that file, and
 similarily any `<script src=SCRIPT.js>` is changed to a `<script>` element containing that Javascript.
+
+Note that the file extensions must by `.css` and `.js` respectively, modulo case.
