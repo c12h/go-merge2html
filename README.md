@@ -8,4 +8,4 @@ except that any `<link rel=stylesheet href=STYLE.css>` element naming a local fi
 element containing the text from that file, and
 similarily any `<script src=SCRIPT.js>` is changed to a `<script>` element containing that Javascript.
 
-Note that the file extensions must by `.css` and `.js` respectively, modulo case.
+Note that the file extensions must be `.css` and `.js` respectively, modulo case.
